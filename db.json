@@ -6,34 +6,24 @@
       "author": "typicode"
     },
     {
-      "id": 2,
-      "title": "A fresh new day",
-      "author": "martin"
+      "title": "s",
+      "author": "user",
+      "id": 2
     },
     {
-      "id": 3,
-      "title": "created by user",
-      "author": "user"
+      "title": "s",
+      "author": "user",
+      "id": 3
     },
     {
-      "title": "my new post",
+      "title": "w",
       "author": "user",
       "id": 4
     },
     {
-      "title": "a second post",
+      "title": "mcdonalds",
       "author": "user",
       "id": 5
-    },
-    {
-      "title": "a third post",
-      "author": "user",
-      "id": 6
-    },
-    {
-      "title": "some icrecream",
-      "author": "user",
-      "id": 7
     }
   ],
   "comments": [
